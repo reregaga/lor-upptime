@@ -5,7 +5,7 @@ repo: lor-upptime # The name of this repository
 sites:
   - name: LINUX.ORG.RU
     url: https://www.linux.org.ru/
-  - name: Linux
+  - name: LinuxTalks.co
     url: https://linuxtalks.co/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
