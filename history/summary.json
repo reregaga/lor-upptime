@@ -24,9 +24,9 @@
     "url": "https://linuxtalks.co/",
     "icon": "https://icons.duckduckgo.com/ip3/linuxtalks.co.ico",
     "slug": "linux-talks-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -36,6 +36,7 @@
     "timeMonth": 673,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2023-06-06": 0,
       "2023-02-15": 38,
       "2023-02-07": 363,
       "2023-01-25": 17
@@ -58,7 +59,7 @@
     "timeMonth": 894,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2023-06-06": 61,
+      "2023-06-06": 596,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
