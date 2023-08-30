@@ -1,7 +1,7 @@
 url: https://www.linux.org.ru/
-status: up
-code: 200
-responseTime: 1226
-lastUpdated: 2023-08-30T03:34:17.368Z
+status: down
+code: 502
+responseTime: 15910
+lastUpdated: 2023-08-30T03:43:44.911Z
 startTime: 2023-01-18T03:37:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
