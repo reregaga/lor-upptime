@@ -6,15 +6,15 @@
     "slug": "linux-org-ru",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1125,
-    "timeDay": 756,
-    "timeWeek": 673,
-    "timeMonth": 823,
-    "timeYear": 1123,
+    "time": 1124,
+    "timeDay": 544,
+    "timeWeek": 667,
+    "timeMonth": 822,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2024-02-23": 36,
       "2024-01-14": 94,
@@ -35,9 +35,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
     "time": 1188,
-    "timeDay": 1107,
-    "timeWeek": 993,
-    "timeMonth": 1770,
+    "timeDay": 831,
+    "timeWeek": 990,
+    "timeMonth": 1771,
     "timeYear": 1247,
     "dailyMinutesDown": {
       "2024-01-26": 43,
@@ -65,12 +65,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 789,
-    "timeDay": 654,
-    "timeWeek": 881,
-    "timeMonth": 718,
+    "timeDay": 726,
+    "timeWeek": 879,
+    "timeMonth": 721,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2024-02-24": 43,
+      "2024-02-25": 49,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -433,8 +434,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   }
 ]
