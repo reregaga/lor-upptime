@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linux.org.ru.ico",
     "slug": "linux-org-ru",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1093,
-    "timeDay": 694,
-    "timeWeek": 932,
-    "timeMonth": 894,
-    "timeYear": 858,
+    "timeDay": 788,
+    "timeWeek": 873,
+    "timeMonth": 897,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2024-02-23": 36,
       "2024-01-14": 94
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1531,
-    "timeDay": 879,
-    "timeWeek": 951,
+    "timeDay": 887,
+    "timeWeek": 924,
     "timeMonth": 1563,
     "timeYear": 1786,
     "dailyMinutesDown": {
@@ -63,12 +63,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 774,
-    "timeDay": 694,
-    "timeWeek": 778,
-    "timeMonth": 878,
+    "timeDay": 687,
+    "timeWeek": 779,
+    "timeMonth": 869,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-10-27": 66,
+      "2024-10-28": 64,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -431,8 +432,7 @@
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
-      "2023-10-30": 1440,
-      "2023-10-29": 1440
+      "2023-10-30": 1440
     }
   }
 ]
