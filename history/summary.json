@@ -6,17 +6,16 @@
     "slug": "linux-org-ru",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 645,
-    "timeWeek": 657,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 844,
+    "timeDay": 702,
+    "timeWeek": 680,
     "timeMonth": 838,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-06-05": 12,
       "2024-11-11": 21
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.90%",
     "time": 1672,
-    "timeDay": 862,
-    "timeWeek": 953,
-    "timeMonth": 2127,
+    "timeDay": 906,
+    "timeWeek": 949,
+    "timeMonth": 2123,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2025-05-16": 176,
@@ -57,12 +56,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 767,
-    "timeDay": 755,
-    "timeWeek": 749,
-    "timeMonth": 768,
-    "timeYear": 761,
+    "timeDay": 698,
+    "timeWeek": 744,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-06-05": 462,
+      "2025-06-06": 72,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -425,8 +425,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   }
 ]
