@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 800,
-    "timeWeek": 898,
-    "timeMonth": 834,
-    "timeYear": 831,
+    "time": 809,
+    "timeDay": 796,
+    "timeWeek": 872,
+    "timeMonth": 821,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2024-11-11": 21
     }
@@ -26,17 +26,16 @@
     "slug": "linux-talks-co",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.83%",
     "time": 1732,
-    "timeDay": 10666,
-    "timeWeek": 4260,
-    "timeMonth": 2314,
+    "timeDay": 10768,
+    "timeWeek": 4295,
+    "timeMonth": 2316,
     "timeYear": 1806,
     "dailyMinutesDown": {
-      "2025-09-11": 8,
       "2025-08-23": 54,
       "2025-08-11": 21,
       "2025-07-31": 18,
@@ -62,12 +61,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 771,
-    "timeDay": 637,
-    "timeWeek": 674,
-    "timeMonth": 749,
-    "timeYear": 767,
+    "timeDay": 678,
+    "timeWeek": 666,
+    "timeMonth": 746,
+    "timeYear": 766,
     "dailyMinutesDown": {
-      "2025-09-11": 592,
+      "2025-09-12": 65,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -430,8 +430,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 1440,
-      "2024-09-12": 1440
+      "2024-09-13": 1440
     }
   }
 ]
