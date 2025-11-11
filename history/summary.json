@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 1403,
-    "timeWeek": 825,
-    "timeMonth": 1047,
+    "time": 833,
+    "timeDay": 431,
+    "timeWeek": 771,
+    "timeMonth": 1027,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2024-11-11": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LinuxTalks.co",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1625,
-    "timeDay": 957,
-    "timeWeek": 728,
-    "timeMonth": 754,
-    "timeYear": 1686,
+    "time": 1624,
+    "timeDay": 587,
+    "timeWeek": 685,
+    "timeMonth": 747,
+    "timeYear": 1685,
     "dailyMinutesDown": {
       "2025-09-30": 18,
       "2025-08-23": 54,
@@ -61,13 +59,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 773,
-    "timeDay": 656,
-    "timeWeek": 759,
+    "time": 774,
+    "timeDay": 940,
+    "timeWeek": 747,
     "timeMonth": 761,
-    "timeYear": 775,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2025-11-10": 74,
+      "2025-11-11": 71,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -430,8 +429,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   }
 ]
