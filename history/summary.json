@@ -4,18 +4,20 @@
     "url": "https://www.linux.org.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/www.linux.org.ru.ico",
     "slug": "linux-org-ru",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 1378,
-    "timeWeek": 1015,
-    "timeMonth": 1135,
+    "time": 841,
+    "timeDay": 1290,
+    "timeWeek": 1039,
+    "timeMonth": 1137,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-28": 17
+    }
   },
   {
     "name": "LinuxTalks.co",
@@ -65,7 +67,7 @@
     "timeMonth": 757,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-11-28": 1374,
+      "2025-11-28": 1391,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
